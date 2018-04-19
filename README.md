@@ -1,2 +1,6 @@
-# hello-world
-Đây là cái gì gì đó code vớ vẩn thôi
+#include <stdio.h>
+
+int main()
+{
+  printf("Hello world\n");
+}
